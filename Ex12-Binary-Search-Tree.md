@@ -21,8 +21,8 @@ child pointer.
 ```
 Program to insert the elements in the binary search tree.
 
-Developed by: P JESHWANTH KUMAR
-RegisterNumber:  212223240114
+Developed by: V Sai Sruthi
+RegisterNumber:  212223100069
 
 
 /*struct node { 
